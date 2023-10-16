@@ -67,4 +67,8 @@ for linha in tabela.index:
     pyautogui.press("enter") # cadastra o produto (botao enviar)
     # dar scroll de tudo pra cima
     pyautogui.scroll(5000)
+<<<<<<< HEAD
     # Passo 5: Repetir o processo de cadastro até o fim
+=======
+    # Passo 5: Repetir o processo de cadastro até o fim
+>>>>>>> origin/main
